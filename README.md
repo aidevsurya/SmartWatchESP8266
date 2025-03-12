@@ -5,7 +5,7 @@ This is a Source Code of Esp8266 based SmartWatch, This is Operating System to r
 <img src="esp8266.png"><br>
 
 # Video of Smart Watch
-<video width="240" height="480" controls>
+<video width="320" height="280" controls>
 <source src="Video.mp4" type="video/mp4">
   This Browser Doesn't Support Video
 </video>
