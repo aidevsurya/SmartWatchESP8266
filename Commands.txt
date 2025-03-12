@@ -1,0 +1,12 @@
+Command to erase
+	esptool --port COM11 erase_flash
+
+Command to install tools
+	pip install esptool adafruit-ampy	
+
+Command to Upload firmware
+	esptool --port COM11 --baud 115200 write_flash 0 ESP8266_GENERIC-OTA-20241129-v1.24.1.bin
+
+Command to install libraries
+	import mip
+	mip.install("ssd1306")
