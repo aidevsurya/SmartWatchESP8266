@@ -5,4 +5,4 @@ This is a Source Code of Esp8266 based SmartWatch, This is Operating System to r
 <img src="esp8266.png"><br>
 
 # Video of Smart Watch
-<vid src="Video.mp4"><br>
+<vid src="Video.mp4" autoplay><br>
