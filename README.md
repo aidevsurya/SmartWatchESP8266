@@ -3,3 +3,6 @@ This is a Source Code of Esp8266 based SmartWatch, This is Operating System to r
 
 # Circuit to Re-Program ESP8266 Watch
 <img src="esp8266.png"><br>
+
+# Video of Smart Watch
+<img src="Video.mp4"><br>
