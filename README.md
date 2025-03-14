@@ -5,7 +5,6 @@ This is a Source Code of Esp8266 based SmartWatch, This is Operating System to r
 <img src="esp8266.png"><br>
 
 # Video of Smart Watch
-# Video of Smart Watch
-<a href="Video.mp4">
+<a href="https://github.com/aidevsurya/SmartWatchESP8266/raw/refs/heads/main/Video.mp4">
   Click Here
 </a>
