@@ -1,48 +1,6 @@
 # SmartWatchESP8266
 This is a Source Code of Esp8266 based SmartWatch, This is Operating System to run multiple apps without reprogramming it using arduino IDE, you easily Add, Modify, Remove any app.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>ESP8266 Real-Life Project Uses</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f4f4f9;
-      color: #333;
-      line-height: 1.6;
-      padding: 2rem;
-    }
-    h1 {
-      color: #1a73e8;
-    }
-    h2 {
-      margin-top: 2rem;
-      color: #333;
-      border-bottom: 2px solid #1a73e8;
-      padding-bottom: 0.3rem;
-    }
-    .project {
-      margin-bottom: 2rem;
-      background-color: #fff;
-      padding: 1.5rem;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-    }
-    .project h3 {
-      color: #1a73e8;
-      margin-bottom: 0.5rem;
-    }
-    .project p {
-      margin: 0;
-    }
-    ul {
-      margin-top: 0.5rem;
-    }
-  </style>
-</head>
 <body>
   <h1>ESP8266 Real-Life Project Uses</h1>
 
